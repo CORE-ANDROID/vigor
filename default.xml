@@ -407,8 +407,7 @@
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr2" groups="pdk" />
-  <project path="packages/apps/KernelControls" name="CORE-ANDROID/KernelControls" remote="ca" revision="jb-devel" />
-  
+
  <!--Device Specific Vendors-->
   <project path="vendor/htc" name="vendor_htc" remote="dt" revision="master" />
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="dt" revision="master" />
